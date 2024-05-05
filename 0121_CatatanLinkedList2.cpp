@@ -214,5 +214,11 @@ int main()
 				cout << "\nInvalid option" << endl;
 				break;
 			}
-
+		}
+		catch (exception& e)
+		{
+			cout << "Chek for the values entered." << endl;
+		}
+	}
+}
 
