@@ -174,5 +174,9 @@ void searchData()
 		cout << "\nName: " << curr->name << endl;
 	}
 }
+int main()
+{
+	while (true)
+	{
 
 
